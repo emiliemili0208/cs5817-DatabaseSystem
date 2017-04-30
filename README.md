@@ -1,8 +1,6 @@
 # grdb
 
-GRAPH ALGORITHM IMPLEMENTATIONS AND EVALUATIONS: 
-
-CONVERSION TO NORMAL FORM
+GRAPH ALGORITHM IMPLEMENTATIONS AND EVALUATIONS: CONVERSION TO NORMAL FORM
 
 Graph Database is based on the graph architecture to store the data between nodes. The feature of graph database is extension of complexity, the more complexity the data is, the more appropriate to use graph database. 
 
